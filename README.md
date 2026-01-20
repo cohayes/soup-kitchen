@@ -141,7 +141,7 @@ Cook actions
 - PREP_INGREDIENTS
 - MAINTAIN_EQUIPMENT
 
-- Add Waiter + Busser in v0.2 (once the single-lane loop is rock solid).
+Add Waiter + Busser in v0.2 (once the single-lane loop is rock solid).
 
 9) Learning (v0.1)
 9.1 Method: Contextual bandit (per role)
